@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  background-color: rgb(12, 11, 11);
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+.heading{
+  text-align: center;
+  margin: 10px;
+}
+.editor{
+  width: 95%;
+  padding: 10px;
+  margin: 10px;
+}
+.cont{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
